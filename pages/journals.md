@@ -12,7 +12,7 @@
 
 [**ADA: A Journal of Gender, New Media & Technology**](http://adanewmedia.org/) is an open-access peer reviewed journal, published twice a year. The first issue highlighted contributions from the field and was an invited issue. Issue 2 was our first peer reviewed issue that used a multi-level open peer review process. Ada is a product of the Fembot Collective and published and preserved through the University of Oregon Libraries. The University of Oregon’s Center for the Study of Women in Society and the School of Journalism and Communication provided seed funding and staff for Ada.
 
-[**Amodern**](http://amodern.net/) is a peer-reviewed, open-access scholarly
+\*[**Amodern**](http://amodern.net/) is a peer-reviewed, open-access scholarly
 journal  devoted to the study of media, culture, and poetics. Its purpose is
 to  provide a forum for interdisciplinary conversations about the role of 
 media and technology in contemporary cultural practices. We are  particularly
